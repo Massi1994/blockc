@@ -1,3 +1,3 @@
-# Blockc
+# MetaCoin Truffle Box
 
-Some tries to understand the blockchian
+MetaCoin example Truffle project
